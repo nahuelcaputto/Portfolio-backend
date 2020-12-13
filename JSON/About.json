@@ -8,12 +8,14 @@
         "Javascript",
         "NodeJs",
         "ReactJS",
+        "ReactNative",
         "HTML",
         "CSS",
         "Bootstrap",
         "MySQL",
         "Sequelize",
-        "Express"
+        "Express",
+        "Moleculer"
         ]
     }
 ]
