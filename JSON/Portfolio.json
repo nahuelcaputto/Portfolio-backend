@@ -1,9 +1,9 @@
 [
     {
-        "name": "Proyecto 1",
-        "descripcion": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
+        "name": "AstridToys",
+        "descripcion": "Ecommerce de FunkoPops realizado para Herny Labs",
         "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
-        "link" : "http://cv.giulianaolmos.guixon.com/"
+        "link" : "https://astridtoys.herokuapp.com/"
     },
     {
         "name": "Proyecto 2",
